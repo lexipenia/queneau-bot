@@ -8,7 +8,7 @@ Follow the bot here:
 https://twitter.com/100000milliards
 
 Buy the original book:
-https://www.gallimard.fr/Catalogue/GALLIMARD/Hors-serie-Beaux-Livres/Cent-mille-milliards-de-poemes
+http://www.gallimard.fr/Catalogue/GALLIMARD/Hors-serie-Beaux-Livres/Cent-mille-milliards-de-poemes
 
 ## Dependencies
 ```
