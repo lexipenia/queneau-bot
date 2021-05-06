@@ -91,9 +91,8 @@ def tweetSonnet(sonnet,counter):
     tweet_text = "Voici le sonnet " + sonnet[14] + " sur " + "100 000 000 000 000. Il en reste " + remaining + " à tweeter."
     try:
         twitter.update_status(status=tweet_text,media_ids=[sonnet_image.media_id])
+        print("Tweet of sonnet",sonnet[14],"sent successfully!")
     except Exception as e:
         print("Error posting tweet:",e)
-
-    print("Tweet of sonnet",sonnet[14],"sent successfully!")
 
 run()
